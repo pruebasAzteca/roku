@@ -1,0 +1,980 @@
+{
+    "modules": [
+        {
+            "promos": [
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "17:35",
+                    "firebaseEvent": "inicio-posterrowlist-destacados-pos-1",
+                    "highlighted": false,
+                    "id": "00000195-438a-dc32-a1b7-f3fb7b480000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/6170de4/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa5%2Fd0%2F41ae09f549cbb6be32ad4feee3a6%2Fquien-gano-este-miercoles-el-sin-palabras.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/venga-la-alegria/quien-gano-este-miercoles-el-sin-palabras?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "26 febrero 2025",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Venga La Alegría",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Un juego muy reñido! ¿Quién ganó este miércoles el Sin Palabras?"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-destacados-pos-2",
+                    "highlighted": false,
+                    "image": "",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/la-people-s-league?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "La People´s League"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-destacados-pos-3",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/22adead/2147483647/strip/true/crop/1106x622+0+36/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa4%2F48%2F3ce7b4e249b0b51edf812afa29f5%2Fexatlon-roku-1000x564-transparencia.png",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/exatlon-ctvs?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Exatlón México"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-destacados-pos-4",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/857a409/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff6%2F72%2F48473321452e80889136a9b922f1%2Fdiseno-sin-titulo-2024-12-20t134458-758.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/acercate-a-rocio-ctvs?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Acércate a Rocío"
+                }
+            ],
+            "view": "posterRowList",
+            "content": "",
+            "headline": "Destacados",
+            "moreTitle": ""
+        },
+        {
+            "headline": "En vivo",
+            "promos": [
+                {
+                    "contentType": "ShowPromo",
+                    "firebaseEvent": "inicio-liveprograming-liveprograming-pos-1",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/al-extremo/envivo?_app=true&device={{DEVICE}}",
+                    "previewDetails": {
+                        "description": "Es un programa informativo que muestra noticias sorprendentes e impactantes alrededor del mundo, además de especialistas y reportajes que te dejarán con la boca abierta.",
+                        "imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/bcd0b80/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2Ff1%2F6d07377a4e88b95bea8275334d24%2Fen-vivo-al-extremo.jpg",
+                        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/a6cc68b/2147483647/strip/true/crop/384x186+0+0/resize/280x136!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2F00%2F00d536ae400f9eadf628bee85aa0%2Fa-extremo-logo-sitio.png"
+                    },
+                    "title": "Al Extremo"
+                },
+                {
+                    "contentType": "ShowPromo",
+                    "firebaseEvent": "inicio-null-null-pos-0",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/ac04d24/2147483647/strip/true/crop/512x288+0+112/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F74%2F8f13538947b7a5e8a0c8989612e1%2Fadn-40-512x512-color-02.png",
+                    "linkPermanente": "https://live.adn40.mx/?_app=true&device={{DEVICE}}",
+                    "previewDetails": {
+                        "description": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Alejandro brofft y Luciana Wainer.",
+                        "imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/d9360f2/2147483647/strip/true/crop/2628x1478+4+0/resize/1920x1080!/format/jpg/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F200342_1.jpg",
+                        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/dac0266/2147483647/strip/true/crop/512x512+0+0/resize/280x280!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F74%2F8f13538947b7a5e8a0c8989612e1%2Fadn-40-512x512-color-02.png"
+                    },
+                    "title": "ADN40.MX con Alejandro Brofft y Luciana Wainer"
+                },
+                {
+                    "contentType": "ShowPromo",
+                    "firebaseEvent": "inicio-liveprograming-liveprograming-pos-2",
+                    "linkPermanente": "https://www.tvazteca.com/cine/envivo?_app=true&device={{DEVICE}}",
+                    "previewDetails": {
+                        "description": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
+                        "imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/0f18fce/2147483647/strip/true/crop/1920x1080+0+0/resize/1920x1080!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2f%2Fa0%2Fab7ad5cd476186fe201d140fd544%2Fserenata-en-mexico.jpg",
+                        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/add6208/2147483647/strip/true/crop/384x186+0+0/resize/280x136!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F30%2F17%2Fc620632a476f81a339bba29cb891%2Flogo.png"
+                    },
+                    "title": "Serenata en México"
+                },
+                {
+                    "contentType": "ShowPromo",
+                    "firebaseEvent": "inicio-liveprograming-liveprograming-pos-3",
+                    "linkPermanente": "https://www.tvazteca.com/azteca7/peliculas/envivo?_app=true&device={{DEVICE}}",
+                    "previewDetails": {
+                        "description": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
+                        "imageBackground": "https://tvazteca.brightspotcdn.com/dims4/default/73cf027/2147483647/strip/true/crop/1200x675+0+0/resize/1920x1080!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F39%2Fc1%2Fb8efb42f4b95baec680c2dd21e0e%2Fscale.webp",
+                        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/97d003d/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6b%2F96%2F8ba553144863b0e79c5915fc7fe3%2Fa7-peliculas.png"
+                    },
+                    "title": "Por siempre Cenicienta: Una historia de amor"
+                }
+            ],
+            "view": "livePrograming"
+        },
+        {
+            "promos": [
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-recomendados-para-ti-pos-1",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/bd2f2b6/2147483647/strip/true/crop/500x281+0+303/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fca%2Ffd%2Fcd24596e4b1c853d293fc96e3107%2Fposter-destacado-resolana-500x888-app001.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/la-resolana?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Resolana"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-recomendados-para-ti-pos-2",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/6b7a436/2147483647/strip/true/crop/500x281+0+303/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5f%2F16%2F1f7b63d4428f9e75ce803ed28df2%2Fexatlon-recomendado-500x888.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/exatlon-ctvs?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Exatlón"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-recomendados-para-ti-pos-3",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/cb7c5b4/2147483647/strip/true/crop/500x281+0+303/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3f%2F1a%2F9f4a7a7d4d98a545cb283079301e%2Fdralucia-recomendado-500x888.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/dra-lucia-ctvs?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Dra. Lucía"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-recomendados-para-ti-pos-4",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/62f496c/2147483647/strip/true/crop/500x281+0+303/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1b%2F28%2F5bf5241c4ef3bf2a25547d5093d1%2F100-md-poster-500x888.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/100-mexicanos?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "100 Mexicanos"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-recomendados-para-ti-pos-5",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/79aaa6b/2147483647/strip/true/crop/500x281+0+303/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F69%2F2d%2F7a22ee5a49c1bc06942e09068c4e%2Fposter-destacado-mc24-500x888-app001.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/masterchef-celebrity?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "MasterChef Celebrity"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-recomendados-para-ti-pos-6",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/8877091/2147483647/strip/true/crop/282x159+0+171/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F86%2Fc0%2F974408a84adc951486ca8bcc3f9f%2Facercate-a-rocio-500x888.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/acercate-a-rocio?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Acércate a Rocío"
+                },
+                {
+                    "author": "Publicado por: Regional News",
+                    "contentType": "video",
+                    "durationTime": "22:34",
+                    "firebaseEvent": "inicio-verticalrowlist-recomendados-para-ti-pos-7",
+                    "highlighted": false,
+                    "id": "00000195-5db3-d820-ad9d-5dbf93420000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/bff79b0/2147483647/strip/true/crop/640x360+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8d%2F28%2F174475615b1f2c560c4513eb232d%2Fthumb-67c6100231a6e70e5ddef3ff-67c6100231a6e70e5ddef413-135s.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/regional-news/videos/noticiero-hechos-meridiano-michoacan-del-3-marzo-2025?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "03 marzo 2025",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Regional News",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Hechos Meridiano Michoacán del 3 marzo 2025"
+                }
+            ],
+            "view": "verticalRowList",
+            "content": "",
+            "headline": "Recomendados para ti",
+            "moreTitle": ""
+        },
+        {
+            "promos": [
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-1",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/f80c0ca/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F22%2F88%2F8449df9549f0ac6c390afa486177%2Froku-semiposter-1920x480-lpl.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/la-people-s-league?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "La People's League "
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-2",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/f98d0bf/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1b%2Fe9%2Fd658a80d4d489c15d3dcd69c6aef%2Froku-semiposter-1920x480-udpv.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/un-dia-para-vivir?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Un Día Para Vivir"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-3",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/fabade1/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F40%2F50%2F850d3c474c74adaf6968ced841f6%2Froku-poster-anadenadie-1920x480-v2-v3.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/ana-de-nadie?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ana de Nadie"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-4",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/68bec46/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc5%2Fbd%2F782d537740df881d47a3d9df82bf%2Froku-semiposter-1920x480-vla.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/venga-la-alegria?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Venga la Alegría"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-5",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/4958484/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F07%2F36%2F661d2d5b4340b2de297c1bfab081%2Froku-semiposter-1920x480-exatlon.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/exatlon-ctvs?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Exatlón México"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-6",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/c79d7bf/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9e%2F01%2Fdbf6d8384a998cd57961baa8a569%2Froku-semiposter-1920x480-rocio.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/acercate-a-rocio-ctvs?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Acércate a Rocío"
+                },
+                {
+                    "contentType": "contentType.type.null",
+                    "durationTime": "",
+                    "firebaseEvent": "inicio-null-lo-mas-visto-pos-7",
+                    "highlighted": false,
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/087b5f6/2147483647/strip/true/crop/853x480+533+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F6a%2F46%2F28d3a7ea45e2990629a7744d8afa%2Froku-semiposter-1920x480-ventaneando.jpg",
+                    "mainMedia": {
+                        "items": [],
+                        "safeModeConfig": false
+                    },
+                    "private": "0",
+                    "source": "https://www.tvazteca.com/app/screen/ctvs-inicio-ventaneando?_app=true&device={{DEVICE}}",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "tagContentType.type.null",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ventaneando"
+                }
+            ],
+            "view": "semiPosterRowList",
+            "content": "",
+            "headline": "Lo más visto",
+            "moreTitle": ""
+        },
+        {
+            "promos": [
+                {
+                    "author": "Publicado por: Erik Solís | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "0:30",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-1",
+                    "highlighted": false,
+                    "id": "00000195-4ec0-d820-ad9d-4edda9890000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/4e60f07/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fdb%2F53%2F6bc464c147d0a0b047d4848d309c%2Fmasterchef-celebrity-generaciones.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/masterchef/masterchef-celebrity-generaciones-primer-avance?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "28 febrero 2025",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Masterchef Celebrity Generaciones presenta su primer avance"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "17:53",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-2",
+                    "highlighted": false,
+                    "id": "00000190-d721-d067-a3b2-f7ab54f30000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/24081c3/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa8%2F60%2F761b11ad421e8f2b9107bd5fa68b%2Fmejores-cocinadas-cms.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/jawy-rossana-y-ferka-presentan-platillos-arriesgados-final?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "22 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Jawy, Rossana y Ferka presentan platillos arriesgados en la gran final "
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "10:32",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-3",
+                    "highlighted": false,
+                    "id": "00000190-d70a-d067-a3b2-f7ab75b60000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/0f5df73/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa9%2F1c%2F0f1fba28440087a2cddd84e3d283%2Fmejores-momentos-cms.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/ferka-jawy-rossana-lo-dan-todo-en-final-masterchef-celebrity?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "22 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ferka, Jawy y Rossana lo dan todo en la final de MasterChef Celebrity 2024"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "2:03:33",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-4",
+                    "highlighted": false,
+                    "id": "00000190-d7e1-d067-a3b2-f7eb97260000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/1adf83b/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa5%2F21%2Fe9925f02490c8458d0b88529eb95%2Fcapitulo-21-de-julio-masterchef-celebrity-2024.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/programa-18-masterchef-celebrity-21-julio-gran-final?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "22 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Programa 18 | 21 de julio | GRAN FINAL | MasterChef Celebrity 2024"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "14:59",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-5",
+                    "highlighted": false,
+                    "id": "00000190-d76f-d067-a3b2-f7ef271e0000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/30cf4c3/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F93%2F34%2F3344c54b4374822d75e229698c48%2Frossana-najera-ganadora-masterchef-celebrity-2024.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/rossana-najera-ganadora-masterchef-celebrity-2024?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "21 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Rossana Nájera se convierte en la ganadora de MasterChef Celebrity 2024"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "9:42",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-6",
+                    "highlighted": false,
+                    "id": "00000190-b2c2-d438-adfe-b7ce6c200000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/6053fcd/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0f%2F00%2Fe244e7a94bb5b3835b7eff6eb603%2Feliminado-cms.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/litzy-y-ferka-se-enfrentan-reto-eliminacion-en-semifinal?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "15 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Litzy y Ferka se enfrentan al reto de eliminación en semifinal"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "8:47",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-7",
+                    "highlighted": false,
+                    "id": "00000190-b2b0-d438-adfe-b7fc1aee0000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/9127594/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb1%2Fcd%2F72fa2d2f49cbb6e6f483a605b263%2Fmasterclass.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/chef-lula-martin-del-campo-esquites-ancestrales-master-class?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "15 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Chef Lula Martín del Campo prepara esquites ancestrales en Master Class"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "8:25",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-8",
+                    "highlighted": false,
+                    "id": "00000190-b2ab-d438-adfe-b7ef87000000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/9125ff4/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8c%2F2a%2F03a83a5c4838bd2905cd23be9bb9%2Fpeores-cocinadas-cms.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/semifinalistas-sufren-maldicion-las-pacholas-masterchef?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "15 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Semifinalistas sufren \"maldición de las Pacholas\" en MasterChef"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "6:49",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-9",
+                    "highlighted": false,
+                    "id": "00000190-b2a6-d438-adfe-b7eef38d0000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/5891c9e/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F33%2F3d%2F2395aa7845f691615955dcbe91c1%2Fmejores-cocinadas-cms.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/ferka-quita-ingrediente-principal-rossana-afecta-platillo?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "15 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ferka quita ingrediente principal de Rossana y afecta su platillo"
+                },
+                {
+                    "author": "Publicado por: Por: Gabriel Moreno | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "12:56",
+                    "firebaseEvent": "inicio-simplerowlist-borrar-videos-test-pos-10",
+                    "highlighted": false,
+                    "id": "00000190-b2a6-d438-adfe-b7eef65b0000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/973a40e/2147483647/strip/true/crop/1280x720+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8a%2Fa1%2Fccb0c11a456581d1d788a5abf823%2Fmejores-momentos-cms.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/aztecauno/ferka-rossana-litzy-y-jawy-compiten-por-ser-finalistas?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "15 julio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "MasterChef",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Ferka, Rossana, Litzy y Jawy compiten por ser finalistas de MasterChef"
+                }
+            ],
+            "view": "simpleRowList",
+            "content": "",
+            "headline": "[Borrar] Videos Test",
+            "moreTitle": ""
+        },
+        {
+            "promos": [
+                {
+                    "author": "Publicado por: Itandehui Cervantes",
+                    "contentType": "video",
+                    "durationTime": "1:14",
+                    "firebaseEvent": "inicio-verticalrowlist-borrar-videos-test-vertical-pos-1",
+                    "highlighted": false,
+                    "id": "00000195-4907-d820-ad9d-491fcea30000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/ecb206d/2147483647/strip/true/crop/587x330+22+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F5a%2F87a8ba47a55e78a8e2e2a6a1a0dd%2Fbalas-2074648.jpg",
+                    "linkPermanente": "https://www.adn40.mx/seguridad/2025-02-27/balacera-en-naucalpan-deja-tres-heridos?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "27 febrero 2025",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Seguridad",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Tres heridos tras balacera en bar de Naucalpan"
+                },
+                {
+                    "author": "Publicado por: Por: Matías Mena | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "19:56",
+                    "firebaseEvent": "inicio-verticalrowlist-borrar-videos-test-vertical-pos-2",
+                    "highlighted": false,
+                    "id": "00000192-f782-da08-a5bf-ffcbe6230000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/a4848e6/2147483647/strip/true/crop/1877x1056+4+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F94%2F39%2Fc07df71c40198509ca9853759cd5%2Fscreen-shot-2024-11-04-at-7-54-43-am.png",
+                    "linkPermanente": "null?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "04 noviembre 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Azteca 7 Especiales",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Masha y el Oso | Péscate pez"
+                },
+                {
+                    "author": "Publicado por: Por: Samantha Sánchez | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "2:23",
+                    "firebaseEvent": "inicio-verticalrowlist-borrar-videos-test-vertical-pos-3",
+                    "highlighted": false,
+                    "id": "00000190-3db9-d4ee-abdc-3ff9ca790000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/7f8afd0/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F78%2Fd3%2F93f8fef04b23a1277f3d8f1526a5%2Fla-sensacion-del-verano-funk-rave.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/azteca7/funk-rave-es-la-sensacion-del-verano?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "21 junio 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Azteca 7 Especiales",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "\"Funk Rave\" de Anitta: el nuevo himno deportivo de este verano"
+                },
+                {
+                    "author": "Publicado por: Por: Matías Mena | TV Azteca Digital",
+                    "contentType": "video",
+                    "durationTime": "2:46",
+                    "firebaseEvent": "inicio-verticalrowlist-borrar-videos-test-vertical-pos-4",
+                    "highlighted": false,
+                    "id": "0000018f-5e90-dc93-a3af-dedde1b90000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/8148de3/2147483647/strip/true/crop/1920x1080+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F60%2F93%2Fae282ea342418607803b04839f5a%2F3-18.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/azteca7/ccxp-en-cdmx-asi-vivio-en-el-evento?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "09 mayo 2024",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Azteca 7 Especiales",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "¡Así se vivió! Revive lo mejor del primer CCXP en CDMX"
+                },
+                {
+                    "author": "Publicado por: Por: Redacción TV Azteca",
+                    "contentType": "video",
+                    "durationTime": "10:32",
+                    "firebaseEvent": "inicio-verticalrowlist-borrar-videos-test-vertical-pos-5",
+                    "highlighted": false,
+                    "id": "0000018a-a54a-de23-abea-afdff9170000",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/635b393/2147483647/strip/true/crop/1876x1055+17+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F05%2F1c%2F6d616f4039660e481cbcc2d1832c%2Fthumb-64753ad773407d149a97b3fc-1685405902049.png",
+                    "linkPermanente": "https://www.tvazteca.com/azteca7/escuela-boxeo-codere-mx/capitulo-4?_app=true&device={{DEVICE}}",
+                    "private": "0",
+                    "publicationDate": "17 septiembre 2023",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Azteca 7 Especiales",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Round 4 | ¿Conoces los esquives? Aprende a esquivar golpes como un profesional."
+                },
+                {
+                    "author": "Publicado por: Por: Redacción TV Azteca",
+                    "contentType": "video",
+                    "durationTime": "9:10",
+                    "firebaseEvent": "inicio-verticalrowlist-borrar-videos-test-vertical-pos-6",
+                    "highlighted": false,
+                    "id": "0000018a-9a98-dd15-ad9f-dbbc2e900030",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/33a3df5/2147483647/strip/true/crop/1200x675+0+0/resize/608x342!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F5a%2F67d253bf83e13be41b74d1ee72ac%2Fthumb-64f3fbc7d13d706127095de0-1693711781208.jpg",
+                    "linkPermanente": "https://www.tvazteca.com/azteca7/resumen-santos-pumas-jornada-7-apertura-2023?_app=true&device={{DEVICE}}",
+                    "private": "1",
+                    "publicationDate": "15 septiembre 2023",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "name": "Videos",
+                            "type": "ContentType"
+                        },
+                        {
+                            "color": "",
+                            "name": "Azteca 7 Especiales",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Resumen: Santos 2-1 Pumas | Jornada 7, Apertura 2023"
+                }
+            ],
+            "view": "verticalRowList",
+            "content": "",
+            "headline": "[Borrar] Videos Test Vertical",
+            "moreTitle": ""
+        }
+    ],
+    "title": "Inicio",
+    "navbarPromoteButtonBgColor": "#b02756",
+    "navbarPromoteButtonBgColor2": "#e62a55",
+    "navbarBgColor": "#332255",
+    "navbarLinksUnderlineColor": "#9e57e2",
+    "portalNavbarBgColor1": "#564f5c",
+    "portalNavbarBgColor2": "#2b3647",
+    "footerGeneralTextColor": "#1d1d1d",
+    "footerLinkColor": "#322255",
+    "footerLinkHoverColor": "#322255",
+    "footerNavLinkColor": "#656565",
+    "footerTextHighlightColor": "#0059a3",
+    "footerBgColor": "#322255",
+    "footerBorderColor": "#ababab",
+    "placeholderImage": [
+        "<picture>\n    \n</picture>"
+    ],
+    "ampMainBgColor": "#332255",
+    "creativeWorks": "#4a90e2"
+}

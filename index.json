@@ -1,0 +1,78 @@
+{
+    "config": {
+        "login": {
+            "private": "1",
+            "privateCfg": ""
+        }
+    },
+    "modules": [
+        {
+            "screens": [
+                {
+                    "icon": "fa-home",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/29cbd08/2147483647/strip/true/crop/80x80+10+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3f%2F6f%2Fc448e35c47e7bcf36e680ee5ac16%2Finicio.png",
+                    "source": "https://www.tvazteca.com/app/screen/inicio",
+                    "title": "Inicio"
+                },
+                {
+                    "icon": "fa-realitiesyconcursos",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/12aa387/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff0%2F96%2Fbd903b01483d90b8522b06392c8c%2Frealities.png",
+                    "source": "https://www.tvazteca.com/app/screen/realities-y-concursos",
+                    "title": "Realities y concursos"
+                },
+                {
+                    "icon": "fa-programas",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/0a7a819/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F12%2Fb7%2F67f887454959be1a7a60a651ed5e%2Fprogramas.png",
+                    "source": "https://www.tvazteca.com/app/screen/programas",
+                    "title": "Programas"
+                },
+                {
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/e82387a/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F68%2F96%2F380d50924c8cb58c55721d7ddc09%2Ftelenovelas.png",
+                    "source": "https://www.tvazteca.com/app/screen/novelas-ctvs",
+                    "title": "Novelas"
+                },
+                {
+                    "icon": "fa-series",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/c98abfe/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F8d%2F76%2F417e4b394f7788989f6755c04715%2Fseries.png",
+                    "source": "https://www.tvazteca.com/app/screen/series",
+                    "title": "Series"
+                },
+                {
+                    "icon": "fa-deportes",
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/8f1e87c/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5b%2F43%2F77f1d36a411eba91c5e70d5ade97%2Fdeportes.png",
+                    "source": "https://www.tvazteca.com/app/screen/deportes",
+                    "title": "Deportes"
+                },
+                {
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/ad40245/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb1%2Fcd%2Fc86858af440ca64c54d9a3a99c7c%2Ficonopodcast.png",
+                    "source": "https://www.tvazteca.com/app/screen/podcast",
+                    "title": "Podcasts"
+                },
+                {
+                    "image": "https://tvazteca.brightspotcdn.com/dims4/default/8a19cf3/2147483647/strip/true/crop/100x100+0+0/resize/200x200!/format/webp/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fae%2F25%2F96e7258b4b8d881626a07a6d6ea2%2Fcine.png",
+                    "source": "https://www.tvazteca.com/app/screen/cine-mexicano",
+                    "title": "Cine Mexicano"
+                }
+            ],
+            "view": "sideBar"
+        }
+    ],
+    "navbarPromoteButtonBgColor": "#b02756",
+    "navbarPromoteButtonBgColor2": "#e62a55",
+    "navbarBgColor": "#332255",
+    "navbarLinksUnderlineColor": "#9e57e2",
+    "portalNavbarBgColor1": "#564f5c",
+    "portalNavbarBgColor2": "#2b3647",
+    "footerGeneralTextColor": "#1d1d1d",
+    "footerLinkColor": "#322255",
+    "footerLinkHoverColor": "#322255",
+    "footerNavLinkColor": "#656565",
+    "footerTextHighlightColor": "#0059a3",
+    "footerBgColor": "#322255",
+    "footerBorderColor": "#ababab",
+    "placeholderImage": [
+        "<picture>\n    \n</picture>"
+    ],
+    "ampMainBgColor": "#332255",
+    "creativeWorks": "#4a90e2"
+}

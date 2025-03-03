@@ -1,0 +1,54 @@
+{
+    "modules": [
+        {
+            "promos": [
+                {
+                    "author": "Publicado por: no-author",
+                    "body": "https://www.tvazteca.com/aztecauno/al-extremo/envivo?appView=true&im=//IM//",
+                    "contentTags": [],
+                    "contentType": "envivo",
+                    "mainMedia": {
+                        "durationTime": "1:30:00",
+                        "safeModeConfig": false,
+                        "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?pp=default&cmsid=2553967&ad_type=audio_video&description_url=https%3A%2F%2Fwww.tvazteca.com%2Faztecauno%2Fal-extremo%2Fenvivo&hl=es&sz=640x480&ad_rule=1&vpmute=1&gdfp_req=1&env=instream&iu=%2F29782907%2Froku-azteca%2FAztecaUno%2FAl-Extremo%2FAl-Extremo-EnVivo&url=https%3A%2F%2Fwww.tvazteca.com%2Faztecauno%2Fal-extremo%2Fenvivo&ciu_szs=&output=xml_vmap1&vid=609b243156cca108312822a6&cust_params=duration%3Dover5min%26Entre_ID%3D609b243156cca108312822a6%26site%3DAztecaUNO%26section%3Dnull%26isamp%3Dfalse%26device%3Droku&impl=s&unviewed_position_start=1&device=roku&correlator=",
+                        "video": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
+                        "videoAssetId": "64f62b62012eb308aebb458f",
+                        "view": "video"
+                    },
+                    "publicationDate": "12 julio 2019",
+                    "tags": [
+                        {
+                            "color": "#ffffff",
+                            "type": "ContentType"
+                        },
+                        {
+                            "name": "Al Extremo",
+                            "type": "Section"
+                        }
+                    ],
+                    "title": "Al Extremo EN VIVO|Lunes a viernes 4:00 p.m. por Azteca UNO"
+                }
+            ],
+            "view": "enVivoContent"
+        }
+    ],
+    "title": "Al Extremo EN VIVO|Lunes a viernes 4:00 p.m. por Azteca UNO",
+    "navbarPromoteButtonBgColor": "#b02756",
+    "navbarPromoteButtonBgColor2": "#e62a55",
+    "navbarBgColor": "#332255",
+    "navbarLinksUnderlineColor": "#ffa6e6",
+    "portalNavbarBgColor1": "#564f5c",
+    "portalNavbarBgColor2": "#2b3647",
+    "footerGeneralTextColor": "#1d1d1d",
+    "footerLinkColor": "#535353",
+    "footerLinkHoverColor": "#322255",
+    "footerNavLinkColor": "#656565",
+    "footerTextHighlightColor": "#0059a3",
+    "footerBgColor": "#322255",
+    "footerBorderColor": "#ababab",
+    "placeholderImage": [
+        "<picture>\n    \n</picture>"
+    ],
+    "ampMainBgColor": "#4c1557",
+    "creativeWorks": "#4a90e2"
+}

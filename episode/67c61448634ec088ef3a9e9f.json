@@ -1,65 +1,30 @@
 {
-    "modules": [
+    "author": "Publicado por: Por: Vanesa Olmos | TV Azteca Digital",
+    "contentType": "video",
+    "durationTime": "33:13",
+    "firebaseEvent": "ctvs-inicio-ventaneando-descriptionrowlist-programas-ventaneando-pos-1",
+    "highlighted": false,
+    "id": "00000195-5dc1-d820-ad9d-5ddd4cad0000",
+    "image": "https://tvazteca.brightspotcdn.com/dims4/default/a731b4e/2147483647/strip/true/crop/1920x1038+0+21/resize/740x400!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fa4%2Ff4%2Fc09dedf34f53874c848e0eadc165%2Fdenuncia-de-maribel-guardia-a-imelda-tunon.jpg",
+    "linkPermanente": "https://www.tvazteca.com/aztecauno/ventaneando/programa-completo-3-marzo-2025?_app=true&device={{DEVICE}}",
+    "previewDetails": {
+        "description": "Imelda Tuñón recupera la custodia de su hijo; así reaccionó Maribel Guardia ante las preguntas de los medios de comunicación.",
+        "imageBackground": "",
+        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/94fe432/2147483647/strip/true/crop/5190x4500+0+0/resize/280x243!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F9f%2F90%2Fe45090d945a798c0ce2f34e5da90%2Fventanenado-logo-4k-300-dpi.png"
+    },
+    "private": "0",
+    "publicationDate": "03 marzo 2025",
+    "tags": [
         {
-            "promos": [
-                {
-                    "author": "Publicado por: Por: Vanesa Olmos | TV Azteca Digital",
-                    "body": "https://www.tvazteca.com/aztecauno/ventaneando/programa-completo-3-marzo-2025?appView=true&im=//IM//",
-                    "contentTags": [
-                        {
-                            "name": "Programa completo ",
-                            "url": "https://www.tvazteca.com/aztecauno/programa-completo?_app=true&view=simpleList"
-                        }
-                    ],
-                    "contentType": "video",
-                    "mainMedia": {
-                        "durationTime": "33:13",
-                        "safeModeConfig": false,
-                        "vast": "https://pubads.g.doubleclick.net/gampad/ads?pp=default&cmsid=2553967&ad_type=audio_video&description_url=https%3A%2F%2Fwww.tvazteca.com%2Faztecauno%2Fventaneando%2Fprograma-completo-3-marzo-2025&hl=es&sz=640x480&ad_rule=1&ads%3Fsz=640x480&vpmute=1&gdfp_req=1&env=instream&iu=%2F29782907%2Fapps-azteca%2FAztecaUno%2FVentaneando%2FVentaneando-Programas-Completos%2FVentaneando-Programas-Completos-video&url=https%3A%2F%2Fwww.tvazteca.com%2Faztecauno%2Fventaneando%2Fprograma-completo-3-marzo-2025&ciu_szs=&output=vast&vid=67c61448634ec088ef3a9e9f&cust_params=duration%3Dover5min%26Entre_ID%3D67c61448634ec088ef3a9e9f%26site%3DAztecaUNO%26section%3Dnull%26isamp%3Dfalse%26device%3Dapps&impl=s&unviewed_position_start=1&ads%3Fslotname=&device=apps&correlator=",
-                        "video": "https://mdstrm.com/video/67c61448634ec088ef3a9e9f.m3u8",
-                        "videoAssetId": "67c61448634ec088ef3a9e9f",
-                        "view": "video",
-                        "ampLink": "https://www.tvazteca.com/aztecauno/ventaneando/programa-completo-3-marzo-2025?_amp=true"
-                    },
-                    "publicationDate": "03 marzo 2025",
-                    "tags": [
-                        {
-                            "color": "#ffffff",
-                            "name": "Videos",
-                            "type": "ContentType"
-                        },
-                        {
-                            "color": "#ffffff",
-                            "name": "Ventaneando",
-                            "type": "Section"
-                        }
-                    ],
-                    "title": "Ventaneando | Programa 3 de marzo de 2025",
-                    "ampLink": "https://www.tvazteca.com/aztecauno/ventaneando/programa-completo-3-marzo-2025?_amp=true"
-                }
-            ],
-            "view": "article",
-            "ampLink": "https://www.tvazteca.com/aztecauno/ventaneando/programa-completo-3-marzo-2025?_amp=true"
+            "color": "#ffffff",
+            "name": "Videos",
+            "type": "ContentType"
+        },
+        {
+            "color": "#ffffff",
+            "name": "Ventaneando",
+            "type": "Section"
         }
     ],
-    "title": "Detalle de la nota",
-    "ampLink": "https://www.tvazteca.com/aztecauno/ventaneando/programa-completo-3-marzo-2025?_amp=true",
-    "navbarPromoteButtonBgColor": "#b02756",
-    "navbarPromoteButtonBgColor2": "#e62a55",
-    "navbarBgColor": "#332255",
-    "navbarLinksUnderlineColor": "#ffa6e6",
-    "portalNavbarBgColor1": "#564f5c",
-    "portalNavbarBgColor2": "#2b3647",
-    "footerGeneralTextColor": "#1d1d1d",
-    "footerLinkColor": "#535353",
-    "footerLinkHoverColor": "#322255",
-    "footerNavLinkColor": "#656565",
-    "footerTextHighlightColor": "#0059a3",
-    "footerBgColor": "#322255",
-    "footerBorderColor": "#ababab",
-    "placeholderImage": [
-        "<picture>\n    \n</picture>"
-    ],
-    "ampMainBgColor": "#4c1557",
-    "creativeWorks": "#4a90e2"
+    "title": "Ventaneando | Programa 3 de marzo de 2025"
 }
